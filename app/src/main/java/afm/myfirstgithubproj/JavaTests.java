@@ -10,4 +10,10 @@ public class JavaTests {
 
         System.out.print("这是一个打印!!");
     }
+
+
+    public void println() {
+
+        System.out.print("新增打印方法!!");
+    }
 }
