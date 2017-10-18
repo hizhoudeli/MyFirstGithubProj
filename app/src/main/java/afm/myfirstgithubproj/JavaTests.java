@@ -16,4 +16,9 @@ public class JavaTests {
 
         System.out.print("新增打印方法!!");
     }
+
+    public void printlnString() {
+
+        System.out.print("新增打印方法!!!!!!!!!!");
+    }
 }
