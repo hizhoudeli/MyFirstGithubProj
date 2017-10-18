@@ -6,7 +6,8 @@ package afm.myfirstgithubproj;
 
 public class JavaTests {
 
-    public void print(){
+    public void print() {
 
+        System.out.print("这是一个打印!!");
     }
 }
